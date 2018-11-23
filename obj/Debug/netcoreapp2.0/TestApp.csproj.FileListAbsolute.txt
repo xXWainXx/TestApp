@@ -8,3 +8,6 @@
 /home/alex/Documents/Projects/TestApp/obj/Debug/netcoreapp2.0/TestApp.AssemblyInfo.cs
 /home/alex/Documents/Projects/TestApp/obj/Debug/netcoreapp2.0/TestApp.dll
 /home/alex/Documents/Projects/TestApp/obj/Debug/netcoreapp2.0/TestApp.pdb
+/home/alex/Documents/Projects/TestApp/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/alex/Documents/Projects/TestApp/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/alex/Documents/Projects/TestApp/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
