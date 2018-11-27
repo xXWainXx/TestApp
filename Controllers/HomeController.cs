@@ -12,6 +12,7 @@ namespace TestApp.Controllers
     {
         public IActionResult Index()
         {
+            int x = 0;
             return View();
         }
 
